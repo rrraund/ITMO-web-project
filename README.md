@@ -1,7 +1,7 @@
 # ITMO-web-project
 Это репоизиторий по предмету Web-программирование
 Cтудента группы M33091
-Ларина Владислава
+Ларина Владислава /n
 [Лаба1](https://rrraund.github.io/ITMO-web-project/lab1/)
 [Лаба2](https://rrraund.github.io/ITMO-web-project/lab2/)
 [Лаба3](https://rrraund.github.io/ITMO-web-project/lab3/)
